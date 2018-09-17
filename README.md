@@ -1,1 +1,2 @@
-# Factions
+# Factions PVP
+Minecraft Factions PVP mod.
